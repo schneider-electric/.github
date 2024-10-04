@@ -19,7 +19,7 @@ We're excited about open source and its positive impact on our company and the w
 
 **Get Involved**
 
-- Visit the Schneider Electric Manifesto: [Manifesto](https://www-prd.corp.staging.sdl.se.com/ww/en/about-us/open-source/manifesto.jsp)
+- Visit the Schneider Electric Manifesto: [Manifesto](https://www.se.com/ww/en/about-us/open-source/manifesto.jsp)
 - Contribute to our projects: [GitHub organization](https://github.com/schneider-electric)
 
 We believe in the power of open source to drive innovation and collaboration. Join us on our journey!
