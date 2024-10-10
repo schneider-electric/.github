@@ -13,6 +13,7 @@ Schneider Electric is dedicated to being impactful in the open-source ecosystem.
 - Teamwork: Foster collaboration and responsible participation.
 
 **Modus Operandi**
+
 The Open-Source Program Office (OPSO) at Schneider Electric will prioritize the following best practices:
 - Governance: Collaborative decision-making involving the OSPO team and stakeholders.
 - Quality: Ensuring high-quality contributions that meet internal security, safety, and reliability standards.
@@ -34,7 +35,12 @@ The Open-Source Program Office (OPSO) at Schneider Electric will prioritize the 
 
 **Get Involved**
 - Visit the Schneider Electric Manifesto: [Manifesto](https://www.se.com/ww/en/about-us/open-source/manifesto.jsp)
-- Contribute to our projects: [GitHub organization](https://github.com/schneider-electric)\
+- Contribute to our projects: [GitHub organization](https://github.com/schneider-electric)
+
+**A few of our contributions**
+- [OPC-UA](https://github.com/SE-I-T-Digital/device-opcua-go) Device Service: this repository is a Go-based EdgeX Foundry Device Service which uses OPC-UA protocol to interact with the devices or IoT objects
+- [cargo-wasix](https://github.com/wasix-org/cargo-wasix): WASIX is the long-term stabilization and support of the existing WASI ABI plus additional non-invasive syscall extensions
+- [EST protocol](https://github.com/globalsign/est): An implementation of the Enrollment over Secure Transport (EST) certificate enrollment protocol Topics
 
 **Meet our sponsors**
 -	Aurelien LeSant - SVP CTO Industry Automation, Schneider Electric
